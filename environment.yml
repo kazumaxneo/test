@@ -1,0 +1,11 @@
+name: variant_call
+channels:
+ - bioconda
+ - conda-forge
+ - defaults
+dependencies:
+ - samtools
+ - bwa
+ - freebayes
+ - trim-galore
+
